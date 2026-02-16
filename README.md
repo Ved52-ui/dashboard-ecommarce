@@ -80,5 +80,13 @@ Open your command prompt or VS Code terminal. Make sure you are inside the exact
 Before running the app for the first time, you need to download all the required packages (React, Tailwind CSS, Lucide Icons, etc.). Type this command and press Enter:
 ```bash
 npm install
+```
+
+### Step 3: Start the Development Server
+
+Once the installation is complete, you can start the application by running:
+npm run dev
+
+
 
 
