@@ -52,7 +52,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine (v16
 
 ### 1. Clone or Download the Repository
 Navigate to your desired folder in the terminal:
-```bash
+
 git clone <your-repository-url>
 cd ecommerce-dashboard
 
