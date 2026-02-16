@@ -57,6 +57,8 @@ git clone <your-repository-url>
 cd ecommerce-dashboard
 
 
+
+
 # 🚀 How to Run This Project
 
 Follow these simple steps to get the E-Commerce Dashboard running on your local machine.
@@ -78,3 +80,5 @@ Open your command prompt or VS Code terminal. Make sure you are inside the exact
 Before running the app for the first time, you need to download all the required packages (React, Tailwind CSS, Lucide Icons, etc.). Type this command and press Enter:
 ```bash
 npm install
+
+
