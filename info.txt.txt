@@ -1,0 +1,3 @@
+hii my name is ved patel i am submitting this assignment from internshala
+how to run it "npm run dev"
+need to install "npm install","npm install tailwindcss @tailwindcss/vite"
