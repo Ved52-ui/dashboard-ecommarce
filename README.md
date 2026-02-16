@@ -85,6 +85,7 @@ npm install
 ### Step 3: Start the Development Server
 
 Once the installation is complete, you can start the application by running:
+```bash
 npm run dev
 
 
