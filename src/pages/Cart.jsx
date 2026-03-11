@@ -3,7 +3,7 @@ import { Trash2, Plus, Minus } from 'lucide-react';
 
 export default function Cart() {
   const { cart, updateQuantity, removeFromCart, total } = useCart();
-
+-
   if (cart.length === 0) return <div className="text-center py-20 text-gray-500">Your cart is empty</div>;
 
   return (
