@@ -7,7 +7,7 @@ export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(null);
   const [sessionExpiry, setSessionExpiry] = useState(null);
   const navigate = useNavigate();
---------------
+
   // Initialize from localStorage
   useEffect(() => {
     const loggedInUser = JSON.parse(localStorage.getItem('currentUser'));
