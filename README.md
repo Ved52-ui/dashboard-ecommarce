@@ -1,10 +1,10 @@
-# 🛒 Authentication-Based E-Commerce Dashboard
+# 🛒 Authentication-Based E-Commerce Dashboard Made By Ved...
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
--
+
 A modern, fully responsive Single Page Application (SPA) built with React and Vite. This application features a complete mock-authentication flow, robust state management using the Context API, and a beautiful UI designed with Tailwind CSS v4.
 
 ---
