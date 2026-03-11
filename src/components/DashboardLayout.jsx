@@ -3,7 +3,7 @@ import { useAuth } from '../context/AuthContext';
 import { useCart } from '../context/CartContext';
 import { useState, useEffect } from 'react';
 import { ShoppingCart, User, LogOut, Package } from 'lucide-react';
-
+-
 export default function DashboardLayout() {
   const { user, logout, sessionExpiry } = useAuth();
   const { cart } = useCart();
